@@ -4,7 +4,7 @@ DATE OF CREATION: April 2017<br />
 AUTHORS: Angelo Lao and Connor Kint<br />
 LANGUAGE: Java<br />
 DESCRIPTION:<br />
-This repo contains the Java code used in my brick-breaker game.  This code was developed in collaboration with Connor Kint in April 2017, using the Greenfoot IDE.  The goal of the game is to guide a bouncing ball to destroy bricks, using a an arrow-key controlled paddle.  If only one ball is on the screen and it touches the bottom of the screen, then a life is lost.
+This repo contains the Java code used in my brick-breaker game.  This code was developed in collaboration with Connor Kint in April 2017, using the Greenfoot IDE.  The goal of the game is to guide a bouncing ball to destroy bricks, using a an arrow-key controlled paddle.  If only one ball is on the screen and it touches the bottom of the screen, then a life is lost.<br />
 We developed most of our game assets including pictures and sound, and for our own entertainment, put our faces on the blocks and had them play the sound of our voices when hit.  Code slightly over-commented to clarify the meaning and purpose of the code outside of the context of the Greenfoot IDE.
 
 Note:  
