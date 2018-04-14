@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ This\ class\ contains\ the\ code\ needed\ for\ a\ paddle\ that\ moves\r\n\ left\ and\ right\ when\ the\ respective\ arrow\ key\ is\ pressed.\r\n\ \r\n\ @Angelo\ Lao\ &\ Connor\ Kint\r\n\ @06/13/17\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

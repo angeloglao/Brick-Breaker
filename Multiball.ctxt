@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Multiball
+comment0.text=\r\n\ This\ class\ contains\ the\ code\ needed\ for\ a\ powerup\ that\ falls\ from\ an\r\n\ ABlock\ or\ CBlock\ and\ produces\ an\ extra\ ball\ for\ the\ player.\r\n\ \r\n\ @Angelo\ Lao\ &\ Connor\ Kint\r\n\ @06/13/17\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Powerup\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
