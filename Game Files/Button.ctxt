@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ This\ class\ contains\ the\ code\ needed\ for\ a\ button\ that\ brings\r\n\ the\ player\ to\ level\ 1\ of\ the\ Brickbreaker\ game.\r\n\ \r\n\ @Angelo\ Lao\ &\ Connor\ Kint\r\n\ @06/13/17\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
